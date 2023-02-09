@@ -1,4 +1,4 @@
-// const API_KEY = "f420f4b46ffa7cbce44d15325196ad87";
+// API_KEY is coming from tmdb 
 import API_KEY from "./api-key";
 
 const requests = {
